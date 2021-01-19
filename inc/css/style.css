@@ -1,0 +1,8 @@
+@import "autocomplete.css";
+body {
+    background: #f8f9fa;
+}
+
+.bg-green {
+    background: linear-gradient(90deg, #8af38a, #bcffea);
+}
